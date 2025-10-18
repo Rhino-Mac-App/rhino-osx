@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://www.rhino3d.com/">  
+<a href="https://software-osx.github.io/.github/rhinoasdas">  
 <img src="https://img.shields.io/badge/Get_Rhino_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Get Rhino for Mac">  
 </a>  
 </div>  
