@@ -1,7 +1,7 @@
 # Rhino Mac – Powerful 3D Design & Modeling
 
 <div align="center">  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8dC2JIaptgiqmXgDZvlt0aIxFobOr7cfUxg&s" alt="Rhino Mac Logo" width="400">  
+<img src="https://wiki.mcneel.com/_media/rhino/rhino_symbol.png?w=164&tok=cd0b95" alt="Rhino Mac Logo" width="400">  
 </div>  
 
 <div align="center">  
