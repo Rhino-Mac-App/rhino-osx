@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://instal-apps-osx.github.io/.github/rhinomac">  
+<a href="https://soft-mac-install.github.io/.github/rhinomac">  
 <img src="https://img.shields.io/badge/Get_Rhino_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Get Rhino for Mac">  
 </a>  
 </div>  
